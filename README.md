@@ -1,6 +1,9 @@
 # Discord_FF
 Repository of Krey's Discord Server (https://discord.gg/tJBusx)
 
+## Disclaimer
+This server is based on controlled anarchy concept you are joining it on your own risk and on your own free will. We are not responsible for users on this server.
+
 ## Ethical codex
 This server has no rules, but we expect from all users to respect ethics below. 
 
