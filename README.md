@@ -18,14 +18,16 @@ Security is important and so it should be constantly tested to ensure that it's 
 
 If you found a critical vulnebularity **CONTACT UPSTREAM ABOUT IT DO NOT SHARE IT ANYWHERE!!** you are allowed to share such content only if upstream refuses to fix it.
 
-3. **Use your best judgement**
+3. **Use your best judgement**<br>
 With great power comes great responsibility which is motto that all longtime linux users are fammiliar with and so you are expected to use your power in the best interest of the server meaning that you have full freedom on this server with the ability to request administrator permissions, but none allows you to abuse it for your personal benefit and you are encouraged to discuss changes on the server with other administrators.
 
-If your behavior is considered counter-productive your role will be revoked.
+If your behavior is considered counter-productive your role will be revoked for X amount of time.
 
-4. **Make it easy for others to help you**
+4. **Make it easy for others to help you**<br>
+If you need help with your system then do your best to provide all required info for others to get familiar with the situation to provide sufficient help.
 
-5. - Use english only You probably wound't like it too if i wrote in a tlhlngal-Hol.. These rules may be updated on demand by any user based on suggestion in #suggestions 
+5. **Contribute**<br>
+This server is maintained by the community feel free to recommend changes to this server and you have ability to change everything on demand, but note that if your change is worse then original that you are responsible for undo.
 
 ### ANIME
-
+Behave bakka!
