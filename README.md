@@ -9,6 +9,15 @@ This server has no rules, but we expect from all users to respect ethics below.
 
 Ethics are categorized par section, but they all apply server-wide
 
+### General
+1. **No banning!**<br> 
+Owner of this server is strictly agains banning meaning that none on this server is ever going to get banned.
+
+If your actions are considered counter-productive based on a logic provided in a bot you will be automatically muted for X amount of time where X is beeing increased exponentially based on the number of infringements.
+
+2. **Discord TOS**<br>
+Note that server is provied on discord and so it's Terms Of Service are respected. If you break them then users are encouraged to report you to Discord support. If you disagree with TOS you are encouraged to change them.
+
 ### LINUX
 1. **Do not babysit newcomers**<br> 
 *Give a man a fish and you will feed him for a day, Teach him how to fish and you will feed him for a lifetime*
