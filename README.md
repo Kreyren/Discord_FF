@@ -9,7 +9,7 @@ This server has no rules, but we expect from all users to respect ethics below.
 
 Ethics are categorized and they applies onlu per section excluding Global which is server-wide.
 
-### Global
+### GLOBAL
 1. **No permanent banning!**<br> 
 Owner of this server is strictly agains banning meaning that none on this server is ever going to get permanently banned.
 
