@@ -7,7 +7,7 @@ This server is based on controlled anarchy concept you are joining it on your ow
 ## Ethical codex
 This server has no rules, but we expect from all users to respect ethics below. 
 
-Ethics are categorized par section, but they all apply server-wide
+Ethics are categorized par section, but they all apply server-wide unless specified otherwise.
 
 ### General
 1. **No permanent banning!**<br> 
@@ -17,6 +17,9 @@ If your actions are considered counter-productive based on a logic provided in a
 
 2. **Discord TOS**<br>
 Note that server is provied on discord and so it's Terms Of Service are respected. If you break them then users are encouraged to report you to Discord support. If you disagree with TOS you are encouraged to change them.
+
+3. **You are responsible for your actions**<br>
+You have the right to request any permission on the server, but then you are responsible for it's use. If you abuse said permission and server agrees that it was unethical then you will be punished accordingly.
 
 ### LINUX
 1. **Do not babysit newcomers**<br> 
