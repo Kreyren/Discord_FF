@@ -10,8 +10,8 @@ This server has no rules, but we expect from all users to respect ethics below.
 Ethics are categorized par section, but they all apply server-wide
 
 ### General
-1. **No banning!**<br> 
-Owner of this server is strictly agains banning meaning that none on this server is ever going to get banned.
+1. **No permanent banning!**<br> 
+Owner of this server is strictly agains banning meaning that none on this server is ever going to get permanently banned.
 
 If your actions are considered counter-productive based on a logic provided in a bot you will be automatically muted for X amount of time where X is beeing increased exponentially based on the number of infringements.
 
