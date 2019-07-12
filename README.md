@@ -7,9 +7,9 @@ This server is based on controlled anarchy concept you are joining it on your ow
 ## Ethical codex
 This server has no rules, but we expect from all users to respect ethics below. 
 
-Ethics are categorized par section, but they all apply server-wide unless specified otherwise.
+Ethics are categorized and they applies onlu per section excluding Global which is server-wide.
 
-### General
+### Global
 1. **No permanent banning!**<br> 
 Owner of this server is strictly agains banning meaning that none on this server is ever going to get permanently banned.
 
@@ -22,9 +22,9 @@ Note that server is provied on discord and so it's Terms Of Service are respecte
 You have the right to request any permission on the server, but then you are responsible for it's use. If you abuse said permission and server agrees that it was unethical then you will be punished accordingly.
 
 4. **Owner has the final word**<br>
-This is temporary rule which is set to encourage server development in desired direction.
+This is temporary ethic which is set to encourage server development in desired direction.
 
-Server owner namely RiXotStudio will be a judge of user actions based on rules provided.
+Server owner namely RiXotStudio will be a judge of user actions based on ethics provided.
 
 5. **You are responsible for your changes**<br>
 You are responsible for all changes made by you on this server.
