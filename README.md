@@ -54,3 +54,8 @@ This server is maintained by the community feel free to recommend changes to thi
 
 ### ANIME
 Behave bakka!
+
+## Reviews
+Feel free to make a reviws on https://disboard.org/server/481111107394732043 for this server.
+
+All reviews are taken into a consideration for server maintainance.
