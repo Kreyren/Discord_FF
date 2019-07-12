@@ -1,3 +1,4 @@
+```md
 # Welcome on the {server}
 Please self-assign yourself a roles for topics that interests you to show relevant channels currently you have been assigned in **INFORMATIONS** and **GLOBAL** topic.
 
@@ -29,3 +30,9 @@ More info in #terminal for command `!help`
 - `!warn` - File a complain without issuing infranction. This is used if you think that user's actions are not ethical, but said rule is not defined in ethical-codex. You should followup with github issue to discuss this behavior.
 
 Note that your rights are limited by ethical-codex which is available on https://github.com/Kreyren/Discord_FF/blob/master/README.md
+
+# Review
+Feel free to leave a review on https://disboard.org/server/481111107394732043 
+
+All reviews are taken into a consideration in maintainance of this server
+```
