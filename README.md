@@ -4,7 +4,7 @@ Repository of Krey's Discord Server (https://discord.gg/tJBusx)
 ## Disclaimer
 This server is based on controlled anarchy concept you are joining it on your own risk and on your own free will. 
 
-Moderators and owners of this server are NOT responsible for it's users actions nor content provided on the server.
+Moderators and owners of this server are NOT responsible for it's users actions and NOT responsible for the content provided on the server.
 
 ## Ethical codex
 This server has no rules, but we expect from all users to respect ethics below. 
