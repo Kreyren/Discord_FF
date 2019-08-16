@@ -31,9 +31,11 @@ You are responsible for all changes made by you on this server.
 
 6. **Prohibited changes**<br>
 Users with permission `power-user` are not allowed to change these channels without prior permission:
-- #get-a-role
-- INFORMATIONS topic
 - Channels which topic is prefixed with `PROTECTED`
+- INFORMATIONS topic channels
+- VOICE topic channels
+
+Additionally power-users are not allowed to assign PROTECTED prefix to channel topic without prior permission
 
 ### LINUX
 1. **Do not babysit newcomers**<br> 
