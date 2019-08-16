@@ -33,7 +33,7 @@ You are responsible for all changes made by you on this server.
 Users with permission `power-user` are not allowed to change these channels without prior permission:
 - #get-a-role
 - INFORMATIONS topic
-- Channels controlled by Gloria borger indicated as GB in the topic.
+- Channels which topic is prefixed with `PROTECTED`
 
 ### LINUX
 1. **Do not babysit newcomers**<br> 
