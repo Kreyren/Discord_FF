@@ -24,12 +24,16 @@ Note that server is provied on discord and so it's Terms Of Service are respecte
 You have the right to request any permission on the server, but then you are responsible for it's use. If you abuse said permission and server agrees that it was unethical then you will be punished accordingly.
 
 4. **Owner has the final word**<br>
-This is temporary ethic which is set to encourage server development in desired direction.
-
-Server owner namely RiXotStudio will be a judge of user actions based on ethics provided.
+RiXot Studio has the final word and full permission as server owner. This account is controlled by multiple people and will not interfiere unless forced to.
 
 5. **You are responsible for your changes**<br>
 You are responsible for all changes made by you on this server.
+
+6. **Prohibited changes**<br>
+Users with permission `power-user` are not allowed to change these channels without prior permission:
+- #get-a-role
+- INFORMATIONS topic
+- Channels controlled by Gloria borger indicated as GB in the topic.
 
 ### LINUX
 1. **Do not babysit newcomers**<br> 
