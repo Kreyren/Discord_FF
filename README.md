@@ -63,6 +63,30 @@ This server is maintained by the community feel free to recommend changes to thi
 ### ANIME
 Behave bakka!
 
+## Your permission
+- `!unban` - Unbans a user | Cooldown: 7 Days per user
+Note that if you issue unban you are responsible for said user for the period of its ban.
+
+- `!unmute` - Unmutes a user | Cooldown: for usage 7 Days per user
+Note that if you issue unmute you are responsible for said user for the period of its mute.
+
+- `!tempban` - temporary ban a user for 1 Day | Cooldown 1 Day per server
+Your ban has to be supported by guidelines in ethical codex or you will recieve a ban for twice that time.
+
+- `!clear` - Clears specified number of messages in a channel | Cooldown : 1 day per server
+Your clear has to be supported by guidelines in ethical codex or you will recieve mute for 12 hours.
+
+- `!infractions` - Outputs number of infractions for specified user | Cooldown : 1 hour per user
+Note that if you get 4 infranctions you get muted for 24 hours
+
+- `!kick` - Kicks specified user | Cooldown : 1 day per server
+Your kick has to be supported by guidelines in ethical codex or you will recieve mute for 12 hours.
+
+- `warn` - Warn a user | Cooldown : 1 day per user
+You have the ability to warn a user if he/she breaks ethical codex where 4 warns results in 1 day mute for said user.
+
+Your warn has to be supported by guidelines in ethical codex or you will be muted for double that amount (2 days)
+
 ## Reviews
 Feel free to make a reviws on https://disboard.org/server/481111107394732043 for this server.
 
