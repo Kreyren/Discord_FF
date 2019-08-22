@@ -37,6 +37,9 @@ Users with permission `power-user` are not allowed to change these channels with
 
 Additionally power-users are not allowed to assign PROTECTED prefix to channel topic without prior permission
 
+7. **Use language that is specified in channels**<br>
+Channels may have suffix of ![ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) for language specified which are to be respected.
+
 ### LINUX
 1. **Do not babysit newcomers**<br> 
 *Give a man a fish and you will feed him for a day, Teach him how to fish and you will feed him for a lifetime*
