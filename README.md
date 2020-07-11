@@ -1,5 +1,5 @@
-# Discord_FF
-Repository of Krey's Discord Server (https://discord.gg/tJBusx)
+# Krey's Anarcho-monarchist discord
+Repository for Krey's Anarcho-monarchist discord (https://discord.gg/tJBusx)
 
 ## Disclaimer
 This server is based on controlled anarchy concept you are joining it on your own risk and on your own free will. 
@@ -18,7 +18,7 @@ Owner of this server is strictly agains banning meaning that none on this server
 If your actions are considered counter-productive based on a logic provided in a bot you will be automatically muted for X amount of time where X is beeing increased exponentially based on the number of infringements.
 
 2. **Discord TOS**<br>
-Note that server is provied on discord and so it's Terms Of Service are respected. If you break them then users are encouraged to report you to Discord support. If you disagree with TOS you are encouraged to change them.
+Note that server is provided on discord and so it's Terms Of Service are respected. If you break them then users are encouraged to report you to Discord support. If you disagree with TOS you are encouraged to change them.
 
 3. **You are responsible for your actions**<br>
 You have the right to request any permission on the server, but then you are responsible for it's use. If you abuse said permission and server agrees that it was unethical then you will be punished accordingly.
@@ -64,7 +64,7 @@ If you need help with your system then do your best to provide all required info
 This server is maintained by the community feel free to recommend changes to this server and you have ability to change everything on demand, but note that if your change is worse then original that you are responsible for undo.
 
 ### ANIME
-Behave bakka!
+Behave baka!
 
 ## Your permission
 - `!unban` - Unbans a user | Cooldown: 7 Days per user
@@ -91,6 +91,6 @@ You have the ability to warn a user if he/she breaks ethical codex where 4 warns
 Your warn has to be supported by guidelines in ethical codex or you will be muted for double that amount (2 days)
 
 ## Reviews
-Feel free to make a reviws on https://disboard.org/server/481111107394732043 for this server.
+Feel free to make a reviews on https://disboard.org/server/481111107394732043 for this server.
 
 All reviews are taken into a consideration for server maintainance.
