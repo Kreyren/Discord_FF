@@ -41,11 +41,8 @@ Additionally power-users are not allowed to assign PROTECTED prefix to channel t
 Channels may have suffix of [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) for language specified which are to be respected.
 
 ### LINUX
-1. **Do not babysit newcomers**<br> 
-*Give a man a fish and you will feed him for a day, Teach him how to fish and you will feed him for a lifetime*
-Linux is complicated and so it's essential for new users to learn how to diagnose issues for themself and how to manage their system. These users can **NOT** be dependant on you and your help for your afford to be productive for linux ecosystem.
-
-Use your best judgement to achieve this goal.
+1. **Provide newcommers with valid informations**<br>
+Originally "do not babysit the new commers", now provide them the information they need so that they learn the subject in question. Use your best judgement in terms of babysitting e.g. skilled user shoudn't need babysitting whereas new and unskilled users depend on it to understand the subject and build on their own knowledge.
 
 2. **WhiteHat talk is allowed**<br>
 Security is important and so it should be constantly tested to ensure that it's safe for users to handle thus white hat and certain forms of grey/black hat are allowed, but we do not enourage sharing content which is made to cause physically damage to third party.
@@ -76,6 +73,7 @@ Note that if you issue unmute you are responsible for said user for the period o
 - `!tempban` - temporary ban a user for 1 Day | Cooldown 1 Day per server
 Your ban has to be supported by guidelines in ethical codex or you will recieve a ban for twice that time.
 
+FIXME: Bot doesn't allow good enough configuration for this.
 - `!clear` - Clears specified number of messages in a channel | Cooldown : 1 day per server
 Your clear has to be supported by guidelines in ethical codex or you will recieve mute for 12 hours.
 
